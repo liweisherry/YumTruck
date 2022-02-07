@@ -1,0 +1,22 @@
+{
+  "name": "yumtruck",
+  "version": "1.0.0",
+  "description": "MERN shopping cart app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liweisherry/YumTruck.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liweisherry/YumTruck/issues"
+  },
+  "homepage": "https://github.com/liweisherry/YumTruck#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
